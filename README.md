@@ -13,7 +13,7 @@
 |------|------|------|
 | Lv1 | [체육복](./gym_suit.md) | ✅ |
 | Lv2 | [H-Index](./h_index.md) | ✅ |
-| Lv3 | [가장 긴 팰린드롬](./longest_palindrome.md) | ✅ |
+| Lv3 | [도둑질](./Programmers/Lv4/%EB%8F%84%EB%91%91%EC%A7%88%20C%20%20%EB%8B%A8%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8.md) | ✅ |
 
 ---
 
